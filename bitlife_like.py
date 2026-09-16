@@ -444,7 +444,7 @@ while True:
             """)
             continue
         else:
-        activities()
+            activities()
 
     #enfin, la mort
     if health <= 0 or age >= Esp_life:
